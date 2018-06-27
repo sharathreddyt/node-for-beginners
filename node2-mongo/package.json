@@ -1,0 +1,11 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "mongodb basic by edwin",
+  "main": "app.js",
+  "license": "  ",
+  "dependencies": {
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.11"
+  }
+}
